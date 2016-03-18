@@ -9,6 +9,9 @@
             "email": "martin.dekeijzer+compo@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": { "Useless\\Exception\\": "src/" }
+    },
     "minimum-stability": "stable",
     "require": {}
 }
