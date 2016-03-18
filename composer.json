@@ -1,0 +1,14 @@
+{
+    "name": "martin1982/you_re-fucked-exception",
+    "description": "A totally useless PHP Exception - Just for laughs",
+    "type": "useless",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Martin de Keijzer",
+            "email": "martin.dekeijzer+compo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
